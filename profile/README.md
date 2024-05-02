@@ -12,7 +12,7 @@ Rhyme source code is available at [Rhyme Github Repo](https://github.com/rhyme-l
 ### Useful Links
 - A recent publication on Rhyme (PADL 2024):  
   [Rhyme: A Data-Centric Expressive Query Language for Nested Data Structures](https://www.cs.purdue.edu/homes/rompf/papers/abeysinghe-padl24.pdf)
-- A second technical report:  
+- A second publication (FLOPS 2024):  
   [Rhyme: A Data-Centric Multi-Paradigm Query Language based on Functional Logic Metaprogramming](https://www.cs.purdue.edu/homes/rompf/papers/abeysinghe-preprint2401.pdf)
 - An interactive blog introducing Rhyme:  
   [Let's build a Query Language!](https://tiarkrompf.github.io/notes/?/js-queries/)
